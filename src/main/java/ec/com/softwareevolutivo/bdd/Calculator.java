@@ -1,4 +1,4 @@
-package ec.com.softwareevolutivo.bdd.steps;
+package ec.com.softwareevolutivo.bdd;
 
 public class Calculator {
 
